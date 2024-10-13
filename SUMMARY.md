@@ -6,8 +6,12 @@
 
 ## Kubernetes
 
-* [Introduction](kubernetes/introduction.md)
+* [Quick start - WIP](kubernetes/quick-start-wip.md)
 
 ## Proxmox
 
-* [Introduction](proxmox/introduction.md)
+* [Quick start - WIP](proxmox/quick-start-wip.md)
+
+## General
+
+* [GitOps - What/How/Why ?](general/gitops-what-how-why.md)

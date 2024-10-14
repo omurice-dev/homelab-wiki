@@ -15,9 +15,3 @@
 ## General
 
 * [GitOps - What/How/Why ?](general/gitops-what-how-why.md)
-
-## Effect.ts
-
-* [Creating Effects](effect.ts/creating-effects.md)
-* [Running Effects](effect.ts/running-effects.md)
-* [Error management](effect.ts/error-management.md)
